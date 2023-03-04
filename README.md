@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter** | **Angular**
 
-- 📫 How to reach me: [idlalmaulana@gmail.com] (idlalmaulana@gmail.com/),
+- 📫 How to reach me: idlalmaulana@gmail.com,
 
 ### Connect with me:
 
