@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Idlal Maulana Wahid</h1>
 <h3 align="center">A self-taught programmer 😜</h3>
+
 ![GitHub followers](https://img.shields.io/github/followers/Idlalmaulanawahid?logo=GitHub&style=for-the-badge)
 
 - 🔭 I currently work remotely at [PT Hanwha Life Insurance Indonesia](https://hanwhalife.co.id/),
