@@ -3,7 +3,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Idlalmaulanawahid?logo=GitHub&style=for-the-badge)
 
-- 🔭 I currently work remotely at [PT Hanwha Life Insurance Indonesia](https://hanwhalife.co.id/),
+- 🔭 I currently work remotely,
 
 - 🌱 I’m currently learning **Flutter** | **Angular**
 
