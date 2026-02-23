@@ -5,7 +5,7 @@
 
 - 🔭 I currently work remotely,
 
-- 🌱 I’m currently learning **Flutter** | **Angular**
+- 🌱 I’m currently learning **Flutter** | **Angular** | **Go** | **Next JS**
 
 - 📫 How to reach me: idlalmaulana@gmail.com,
 
